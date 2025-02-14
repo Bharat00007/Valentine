@@ -58,7 +58,7 @@ const messages = [
     "Really sure??",
     "Are you positive?",
     "Asthaa please...",
-    "Astha plzz just think about it!",
+    "Asthaa just think about it!",
     "Asthaa if you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
