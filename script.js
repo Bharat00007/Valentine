@@ -60,8 +60,8 @@ const messages = [
     "Asthaa please...",
     "Asthaa just think about it!",
     "Asthaa if you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Asthaa I will be very sad...",
+    "Asthaa I will be very very very sad...",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
